@@ -18,6 +18,9 @@ this uses the classic green→amber→red gradient instead, which is the
 standard "VU meter" look and the closest thing to a rainbow this
 hardware can actually display.
 
+#Demo
+https://github.com/user-attachments/assets/15bbc139-7971-412c-b6b0-2269d23f11ba
+
 ## 1. Install Python packages
 
 Open a terminal (PowerShell or CMD) in this folder and run:
