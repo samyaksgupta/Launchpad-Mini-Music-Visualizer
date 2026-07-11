@@ -18,7 +18,7 @@ this uses the classic green→amber→red gradient instead, which is the
 standard "VU meter" look and the closest thing to a rainbow this
 hardware can actually display.
 
-#Demo
+# Demo
 
 https://github.com/user-attachments/assets/15bbc139-7971-412c-b6b0-2269d23f11ba
 
